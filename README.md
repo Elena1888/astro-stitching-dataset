@@ -32,7 +32,7 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 ### 4. IC 4653
 - **Telescope, instrument and filter:** HST/WFC3, F606W
-- - **Reference mosaic:** available
+-  **Reference mosaic:** available
 
 | Input 1 | Input 2 |  
 |---|---|
