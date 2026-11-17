@@ -7,9 +7,9 @@ Before stitching, the images were converted to 8-bit JPG images (percentile stre
 ## Data source
 Hubble Space Telescope data obtained from the Mikulski Archive for Space Telescopes (MAST) at the Space Telescope Science Institute (STScI), operated by AURA for NASA/ESA. The original FITS files are available at MAST; this repository contains the preprocessed JPG images used in the experiments.
 
-| SIFT | ORB | AKAZE | 
-|---|---|
-| a | b |
+| SIFT | ORB | AKAZE | Astroalign | UDIS | DHS | ACDIS | RopStitch |
+|---|---|---|---|---|---|---|---|
+| <img src="AbellS1063/SIFT.jpg" width="120"> | b |
 
 ## Image pairs
 ### 1. Abell S1063
