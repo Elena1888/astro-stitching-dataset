@@ -9,3 +9,4 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 ## Image pairs
 ### 1. Abell S1063
+- **Telescope, instrument and filter:** HST/WFC3, F160W
