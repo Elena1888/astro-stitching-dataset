@@ -9,7 +9,7 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 | SIFT | ORB | AKAZE | Astroalign | UDIS | DHS | ACDIS | RopStitch |
 |---|---|---|---|---|---|---|---|
-| <img src="AbellS1063/SIFT.jpg" width="120"> | b |
+| <img src="AbellS1063/SIFT.jpg" width="180"> | b |
 
 ## Image pairs
 ### 1. Abell S1063
