@@ -44,4 +44,4 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 | SIFT | ORB | AKAZE | Astroalign | UDIS | DHS | ACDIS | RopStitch |
 |---|---|---|---|---|---|---|---|
-| <img src="ARP240/SIFT.jpg" width="180"> | <img src="ARP240/ORB.jpg" width="180"> | <img src="ARP240/AKAZE.jpg" width="180"> | <img src="ARP240/ASTRO.jpg" width="180"> | <img src="ARP240/UDIS.jpg" width="180"> | <img src="ARP240/DHS.jpg" width="180"> | <img src="ARP240/ACDISh.jpg" width="180"> | <img src="ARP240/.jpg" width="180"> | <img src="ARP240/RS1.jpg" width="180"> |
+| <img src="ARP240/SIFT.jpg" width="180"> | <img src="ARP240/ORB.jpg" width="180"> | <img src="ARP240/AKAZE.jpg" width="180"> | <img src="ARP240/ASTRO.jpg" width="180"> | <img src="ARP240/UDIS.jpg" width="180"> | <img src="ARP240/DHS.jpg" width="180"> | <img src="ARP240/ACDISh.jpg" width="180"> | <img src="ARP240/.jpg" width="180"> | <img src="ARP240/RS.jpg" width="180"> |
