@@ -21,4 +21,4 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 | SIFT | ORB | AKAZE | DHS | ACDIS | RopStitch |
 |---|---|---|---|---|---|
-| <img src="AbellS1063/SIFT.jpg" width="180"> | <img src="AbellS1063/ORB.jpg" width="180"> | <img src="AbellS1063/AKAZE.jpg" width="180"> | <img src="AbellS1063/DHS.jpg" width="180"> | <img src="AbellS1063/ACDISh.jpg" width="180"> | <img src="AbellS1063/.jpg" width="180"> | <img src="AbellS1063/RS1.jpg" width="180"> |
+| <img src="AbellS1063/SIFT.jpg" width="180"> | <img src="AbellS1063/ORB.jpg" width="180"> | <img src="AbellS1063/AKAZE.jpg" width="180"> | <img src="AbellS1063/DHS.jpg" width="180"> | <img src="AbellS1063/ACDISh.jpg" width="180"> | <img src="AbellS1063/.jpg" width="180"> | <img src="AbellS1063/RS.jpg" width="180"> |
