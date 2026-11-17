@@ -13,4 +13,4 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 | Input 1 | Input 2 |  
 |---|---|
-| <img src="AbellS1063/input1/0001.jpg" width="250"> | b |
+| <img src="AbellS1063/input1/0001.jpg" width="250"> | <img src="AbellS1063/input2/0001.jpg" width="250"> |
