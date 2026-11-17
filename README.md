@@ -1,1 +1,1 @@
-# astro-stitching-dataset
+# Astronomical Image Stitching Dataset
