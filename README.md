@@ -29,8 +29,8 @@ Hubble Space Telescope data obtained from the Mikulski Archive for Space Telesco
 
 | Input 1 | Input 2 |  
 |---|---|
-| <img src="ACO S520/input1/0001.jpg" width="250"> | <img src="ACO S520/input2/0001.jpg" width="250"> |
+| <img src="ACOS520/input1/0001.jpg" width="250"> | <img src="ACOS520/input2/0001.jpg" width="250"> |
 
 | SIFT | ORB | AKAZE | DHS | RopStitch |
 |---|---|---|---|---|
-| <img src="ACO S520/SIFT.jpg" width="180"> | <img src="ACO S520/ORB.jpg" width="180"> | <img src="ACO S520/AKAZE.jpg" width="180"> | <img src="ACO S520/DHS.jpg" width="180"> | <img src="AbellS1063/RS1.jpg" width="180"> |
+| <img src="ACOS520/SIFT.jpg" width="180"> | <img src="ACOS520/ORB.jpg" width="180"> | <img src="ACOS520/AKAZE.jpg" width="180"> | <img src="ACOS520/DHS.jpg" width="180"> | <img src="ACOS520/RS1.jpg" width="180"> |
